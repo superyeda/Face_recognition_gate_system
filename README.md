@@ -1,5 +1,6 @@
 # 人脸识别-门禁闸机后台端
-对接百度智能云人脸识别SDK
+
+## 对接百度智能云人脸识别SDK
 
 ![image](https://github.com/superyeda/Face_recognition_gate_system/assets/99738781/2cdbed51-36a5-40a2-9578-4927e2106b3e)
 
